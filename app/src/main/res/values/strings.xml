@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">صحيفة الخليج</string>
+
+    <!--First Run dialog-->
+    <string name="first_launch_title">Hello</string>
+    <string name="first_launch_message">Thank you for downloading this app!</string>
+
+    <!--Dialog buttons-->
+    <string name="later">لاحقاً</string>
+    <string name="no">لا شكرا</string>
+    <string name="yes">نعم</string>
+
+    <!--Rating dialog-->
+    <string name="rate_title">هل يعجبك التطبيق؟</string>
+    <string name="rate_message">If so, please take a moment to rate my app.</string>
+    <string name="rate">Rate now</string>
+
+    <!--Facebook dialog-->
+    <string name="facebook_title">Connect with us</string>
+    <string name="facebook_message">Become friends on Facebook?</string>
+
+    <!--Offline screen-->
+    <string name="offline_message_1">لا يوجد إنترنت</string>
+    <string name="offline_message_2">الرجاء التحقق من وجود إنترنت.</string>
+    <string name="try_again">حاول مرة أخرى</string>
+
+    <!--No connection dialog-->
+    <string name="no_connection_title">لا يوجد اتصال بالانترنت</string>
+    <string name="no_connection_message">الرجاء التحقق من وصولك بالإنترنت</string>
+    <string name="title_activity_show_web_view">ShowWebView</string>
+
+
+    <!-- Your AdMob IDs -->
+    <string name="admob_app_id">ca-app-pub-1039454507871230~7483331281</string>  <!-- Official AdMob Test ID: ca-app-pub-1039454507871230~7483331281-->
+    <string name="banner_footer">ca-app-pub-1039454507871230/1628369373</string>  <!-- Official AdMob Test ID: ca-app-pub-1039454507871230/1628369373-->
+    <string name="interstitial_full_screen">ca-app-pub-1039454507871230/6114409291</string>  <!-- Official AdMob Test ID: ca-app-pub-1039454507871230/6114409291-->
+
+    <!--DeepLinking URL scheme -->
+    <string name="deeplinking">Convertify</string>
+
+</resources>
